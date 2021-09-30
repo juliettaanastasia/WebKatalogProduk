@@ -461,6 +461,7 @@ a {
 .single-product .right-content p {
 	margin-top: 20px;
 	margin-bottom: 30px;
+	text-align: justify;
 }
 .single-product .right-content span {
 	font-size: 14px;
